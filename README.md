@@ -1,2 +1,3 @@
-# Minimal Debian Base Image - based on Torprojects Debian base-images [https://gitlab.torproject.org/tpo/tpa/base-images.git]
+## Minimal Debian GNU/Linux base-images [https://gitlab.torproject.org/tpo/tpa/base-images.git]
+### based on Torproject's Debian images
 
